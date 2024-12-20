@@ -44,9 +44,9 @@ nav a {
   background-color: white;
   color: #121010;
   border: 2px solid #1f1d1d;
-  padding: 10px 20px;
-  font-size: 20px;
-  border-radius: 15px;
+  padding: 25px 150px;
+  font-size: 24px;
+  border-radius:30px;
   transition: 0.3s linear;
 }
 
@@ -55,6 +55,7 @@ nav a:hover {
   color: white;
   border: 2px solid white;
   transform: scale(1.1);
+  transform: rotate(5deg);
 }
 
 .cool {
